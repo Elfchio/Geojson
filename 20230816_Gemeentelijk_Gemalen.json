@@ -1,0 +1,48 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Gemeentelijk_Gemalen",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5036181321, 52.1094927338 ]
+			},
+			"properties" : {
+				"CODE" : "B67023",
+				"NAAM" : "Rioolgemaal Zuidhof",
+				"TYPE" : "RG",
+				"XCOORDINAA" : 0,
+				"YCOORDINAA" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5223355543, 52.137235376 ]
+			},
+			"properties" : {
+				"CODE" : "A25028A",
+				"NAAM" : "Rioolgemaal Rijndijk",
+				"TYPE" : "RG",
+				"XCOORDINAA" : 0,
+				"YCOORDINAA" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.4943262997, 52.1162894004 ]
+			},
+			"properties" : {
+				"CODE" : "082092",
+				"NAAM" : "Rioolgemaal Pinksterbloemlaan",
+				"TYPE" : "RG",
+				"XCOORDINAA" : 0,
+				"YCOORDINAA" : 0
+			}
+		}
+	]
+}
