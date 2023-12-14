@@ -1,0 +1,300 @@
+{
+ "displayFieldName": "ORACLE_OBJECTID",
+ "fieldAliases": {
+  "ORACLE_OBJECTID": "ORACLE_OBJECTID",
+  "CODE": "CODE",
+  "NAAM": "NAAM",
+  "JAARVANAANLEG": "JAARVANAANLEG",
+  "OPMERKING": "OPMERKING",
+  "ADRES": "ADRES",
+  "POSTCODE": "POSTCODE",
+  "PLAATS": "PLAATS",
+  "INWINNENDEINSTANTIE": "INWINNENDEINSTANTIE",
+  "METENDEINSTANTIE": "METENDEINSTANTIE",
+  "INWINNINGSMETHODE": "INWINNINGSMETHODE",
+  "DIMENSIE": "DIMENSIE",
+  "NAUWKEURIGHEIDXY": "NAUWKEURIGHEIDXY",
+  "NAUWKEURIGHEIDZ": "NAUWKEURIGHEIDZ",
+  "DATUMINWINNING": "DATUMINWINNING",
+  "HYPERLINKFOTO1": "HYPERLINKFOTO1",
+  "HYPERLINKFOTO2": "HYPERLINKFOTO2",
+  "GEOKPOBJECTID": "GEOKPOBJECTID",
+  "LAST_EDITED_DATE": "LAST_EDITED_DATE",
+  "SOORTRIOOLGEMAAL": "SOORTRIOOLGEMAAL",
+  "XCOORDINAAT": "XCOORDINAAT",
+  "YCOORDINAAT": "YCOORDINAAT",
+  "STATUSOBJECT": "STATUSOBJECT",
+  "CAPACITEITONTWERP": "CAPACITEITONTWERP",
+  "CAPACITEITHUIDIG": "CAPACITEITHUIDIG",
+  "CAPACITEITGEINSTALLEERD": "CAPACITEITGEINSTALLEERD",
+  "POMPOVERCAPACITEITBESCHIKBAAR": "POMPOVERCAPACITEITBESCHIKBAAR",
+  "UITSLAGPEIL": "UITSLAGPEIL",
+  "AANTALPOMPEN": "AANTALPOMPEN",
+  "HYPERLINK": "HYPERLINK",
+  "LONGITUDE": "LONGITUDE",
+  "AFVOERRICHTING": "AFVOERRICHTING",
+  "LATITUDE": "LATITUDE",
+  "EIGENAAR": "EIGENAAR",
+  "BEHEERDER": "BEHEERDER",
+  "LAATSTERENOVATIE": "LAATSTERENOVATIE",
+  "NAMESPACE": "NAMESPACE",
+  "DETAILNIVEAUGEOMETRIE": "DETAILNIVEAUGEOMETRIE",
+  "LVPUBLICATIEDATUM": "LVPUBLICATIEDATUM",
+  "CODELEIDING": "CODELEIDING",
+  "CODETRANSPORTSTELSEL": "CODETRANSPORTSTELSEL",
+  "BRON": "BRON",
+  "OBJECTID2": "OBJECTID2"
+ },
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 28992,
+  "latestWkid": 28992
+ },
+ "fields": [
+  {
+   "name": "ORACLE_OBJECTID",
+   "type": "esriFieldTypeString",
+   "alias": "ORACLE_OBJECTID",
+   "length": 200
+  },
+  {
+   "name": "CODE",
+   "type": "esriFieldTypeString",
+   "alias": "CODE",
+   "length": 50
+  },
+  {
+   "name": "NAAM",
+   "type": "esriFieldTypeString",
+   "alias": "NAAM",
+   "length": 100
+  },
+  {
+   "name": "JAARVANAANLEG",
+   "type": "esriFieldTypeInteger",
+   "alias": "JAARVANAANLEG"
+  },
+  {
+   "name": "OPMERKING",
+   "type": "esriFieldTypeString",
+   "alias": "OPMERKING",
+   "length": 250
+  },
+  {
+   "name": "ADRES",
+   "type": "esriFieldTypeString",
+   "alias": "ADRES",
+   "length": 80
+  },
+  {
+   "name": "POSTCODE",
+   "type": "esriFieldTypeString",
+   "alias": "POSTCODE",
+   "length": 6
+  },
+  {
+   "name": "PLAATS",
+   "type": "esriFieldTypeString",
+   "alias": "PLAATS",
+   "length": 80
+  },
+  {
+   "name": "INWINNENDEINSTANTIE",
+   "type": "esriFieldTypeString",
+   "alias": "INWINNENDEINSTANTIE",
+   "length": 100
+  },
+  {
+   "name": "METENDEINSTANTIE",
+   "type": "esriFieldTypeString",
+   "alias": "METENDEINSTANTIE",
+   "length": 100
+  },
+  {
+   "name": "INWINNINGSMETHODE",
+   "type": "esriFieldTypeString",
+   "alias": "INWINNINGSMETHODE",
+   "length": 100
+  },
+  {
+   "name": "DIMENSIE",
+   "type": "esriFieldTypeString",
+   "alias": "DIMENSIE",
+   "length": 100
+  },
+  {
+   "name": "NAUWKEURIGHEIDXY",
+   "type": "esriFieldTypeSmallInteger",
+   "alias": "NAUWKEURIGHEIDXY"
+  },
+  {
+   "name": "NAUWKEURIGHEIDZ",
+   "type": "esriFieldTypeSmallInteger",
+   "alias": "NAUWKEURIGHEIDZ"
+  },
+  {
+   "name": "DATUMINWINNING",
+   "type": "esriFieldTypeDate",
+   "alias": "DATUMINWINNING",
+   "length": 8
+  },
+  {
+   "name": "HYPERLINKFOTO1",
+   "type": "esriFieldTypeString",
+   "alias": "HYPERLINKFOTO1",
+   "length": 1073741822
+  },
+  {
+   "name": "HYPERLINKFOTO2",
+   "type": "esriFieldTypeString",
+   "alias": "HYPERLINKFOTO2",
+   "length": 1073741822
+  },
+  {
+   "name": "GEOKPOBJECTID",
+   "type": "esriFieldTypeInteger",
+   "alias": "GEOKPOBJECTID"
+  },
+  {
+   "name": "LAST_EDITED_DATE",
+   "type": "esriFieldTypeDate",
+   "alias": "LAST_EDITED_DATE",
+   "length": 8
+  },
+  {
+   "name": "SOORTRIOOLGEMAAL",
+   "type": "esriFieldTypeString",
+   "alias": "SOORTRIOOLGEMAAL",
+   "length": 100
+  },
+  {
+   "name": "XCOORDINAAT",
+   "type": "esriFieldTypeDouble",
+   "alias": "XCOORDINAAT"
+  },
+  {
+   "name": "YCOORDINAAT",
+   "type": "esriFieldTypeDouble",
+   "alias": "YCOORDINAAT"
+  },
+  {
+   "name": "STATUSOBJECT",
+   "type": "esriFieldTypeString",
+   "alias": "STATUSOBJECT",
+   "length": 100
+  },
+  {
+   "name": "CAPACITEITONTWERP",
+   "type": "esriFieldTypeDouble",
+   "alias": "CAPACITEITONTWERP"
+  },
+  {
+   "name": "CAPACITEITHUIDIG",
+   "type": "esriFieldTypeDouble",
+   "alias": "CAPACITEITHUIDIG"
+  },
+  {
+   "name": "CAPACITEITGEINSTALLEERD",
+   "type": "esriFieldTypeDouble",
+   "alias": "CAPACITEITGEINSTALLEERD"
+  },
+  {
+   "name": "POMPOVERCAPACITEITBESCHIKBAAR",
+   "type": "esriFieldTypeInteger",
+   "alias": "POMPOVERCAPACITEITBESCHIKBAAR"
+  },
+  {
+   "name": "UITSLAGPEIL",
+   "type": "esriFieldTypeDouble",
+   "alias": "UITSLAGPEIL"
+  },
+  {
+   "name": "AANTALPOMPEN",
+   "type": "esriFieldTypeInteger",
+   "alias": "AANTALPOMPEN"
+  },
+  {
+   "name": "HYPERLINK",
+   "type": "esriFieldTypeString",
+   "alias": "HYPERLINK",
+   "length": 1073741822
+  },
+  {
+   "name": "LONGITUDE",
+   "type": "esriFieldTypeDouble",
+   "alias": "LONGITUDE"
+  },
+  {
+   "name": "AFVOERRICHTING",
+   "type": "esriFieldTypeString",
+   "alias": "AFVOERRICHTING",
+   "length": 50
+  },
+  {
+   "name": "LATITUDE",
+   "type": "esriFieldTypeDouble",
+   "alias": "LATITUDE"
+  },
+  {
+   "name": "EIGENAAR",
+   "type": "esriFieldTypeString",
+   "alias": "EIGENAAR",
+   "length": 100
+  },
+  {
+   "name": "BEHEERDER",
+   "type": "esriFieldTypeString",
+   "alias": "BEHEERDER",
+   "length": 100
+  },
+  {
+   "name": "LAATSTERENOVATIE",
+   "type": "esriFieldTypeDate",
+   "alias": "LAATSTERENOVATIE",
+   "length": 8
+  },
+  {
+   "name": "NAMESPACE",
+   "type": "esriFieldTypeString",
+   "alias": "NAMESPACE",
+   "length": 50
+  },
+  {
+   "name": "DETAILNIVEAUGEOMETRIE",
+   "type": "esriFieldTypeInteger",
+   "alias": "DETAILNIVEAUGEOMETRIE"
+  },
+  {
+   "name": "LVPUBLICATIEDATUM",
+   "type": "esriFieldTypeDate",
+   "alias": "LVPUBLICATIEDATUM",
+   "length": 8
+  },
+  {
+   "name": "CODELEIDING",
+   "type": "esriFieldTypeString",
+   "alias": "CODELEIDING",
+   "length": 50
+  },
+  {
+   "name": "CODETRANSPORTSTELSEL",
+   "type": "esriFieldTypeString",
+   "alias": "CODETRANSPORTSTELSEL",
+   "length": 50
+  },
+  {
+   "name": "BRON",
+   "type": "esriFieldTypeString",
+   "alias": "BRON",
+   "length": 150
+  },
+  {
+   "name": "OBJECTID2",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID2"
+  }
+ ],
+ "features": [
+  
+ ]
+}
